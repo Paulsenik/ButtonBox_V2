@@ -3,3 +3,4 @@ A programm that can connect to an arduino-based keyboard to re-programm its butt
 
 ## Build-Note
 * Import latest build of [Java-Project-Library](https://github.com/realPaulsen/Java-Project-Library) into Project before building
+* Import external library [jSerialComm](https://github.com/Fazecast/jSerialComm) for serial/USB-Connection
